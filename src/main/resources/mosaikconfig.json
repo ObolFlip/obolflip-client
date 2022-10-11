@@ -1,0 +1,6 @@
+{
+  "starturl": "{publicurl}/flipoverview",
+  "routes": {
+    "past": "{publicurl}/pastFlips"
+  }
+}
